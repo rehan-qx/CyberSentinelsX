@@ -92,3 +92,14 @@ Sentinel-X/
 ## ⚠️ Legal Disclaimer
 
 **For Educational Use Only.** Sentinel-X is designed for authorized penetration testing and security auditing. The developer is not responsible for any unauthorized use, illegal activities, or damage caused by this tool. Use this framework ethically and always obtain written permission before testing any network or system.
+
+
+---
+
+### 📢 Stay Updated
+Join our WhatsApp channel for daily cyber updates, vulnerability write-ups, and security news!
+
+👉 **[Join Our WhatsApp Channel](https://whatsapp.com/channel/0029Vb5n1UC7oQhYnrlUBD26)**
+
+---
+*Maintained by **Muhammad Rehan Afzal** | Founder, TeamCyberOps*
