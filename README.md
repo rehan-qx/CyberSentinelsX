@@ -1,6 +1,6 @@
-# 🚀 Sentinel-X | Elite Network Security Framework
+# 🚀 CyberSentinelX | Elite Network Security Framework
 
-**Sentinel-X** is a Command & Control C2 with high-performance, automated network exploitation and OSINT framework. It seamlessly orchestrates professional-grade tools like **Bettercap**, **Mitmproxy**, and **Scapy** to perform stealthy interception, SSL stripping, and deep packet analysis through a single, unified Command-Line Interface (CLI).
+**CyberSentinelX** is a Command & Control C2 with high-performance, automated network exploitation and OSINT framework. It seamlessly orchestrates professional-grade tools like **Bettercap**, **Mitmproxy**, and **Scapy** to perform stealthy interception, SSL stripping, and deep packet analysis through a single, unified Command-Line Interface (CLI).
 
 ---
 
